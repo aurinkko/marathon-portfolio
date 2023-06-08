@@ -566,7 +566,7 @@ body {
 
 @media screen and (min-width: 320px) {
 
-  header {
+  .header {
     height: 100px;
   }
 
